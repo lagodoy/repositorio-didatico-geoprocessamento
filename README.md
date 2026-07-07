@@ -3,11 +3,11 @@
 
 ## Objetivo
 
-Este repositório reúne procedimentos documentados de geoprocessamento. A ideia não é apresentar apenas tutoriais demonstrando como utilizar as ferramentas, mas também explicar os motivos do uso dessas ferramentas dentro de cada procedimento metodológico.
+Este repositório reúne procedimentos documentados de geoprocessamento. A ideia não é apresentar apenas tutoriais demonstrando como utilizar as ferramentas, mas também explicar os motivos de suas escolhas dentro de cada procedimento metodológico.
 
-Cada procedimento é independente, apresentando um problema a ser investigado ou uma questão a ser respondida com base em dados espaciais. Como a metodologia também é explicada, a reprodução e adaptação dos procedimentos para qualquer ferramenta de GIS ou linguagem de programação é independente das utilizadas nos exemplos apresentados, que são primordialmente R, Python e o QGIS.
+Cada procedimento é independente, apresentando um problema a ser investigado ou uma questão a ser respondida com base em dados espaciais. Como a metodologia também é explicada, a reprodução e a adaptação dos procedimentos para qualquer ferramenta de GIS ou linguagem de programação podem ser feitas independentemente das utilizadas nos exemplos apresentados (R, Python e PostGIS).
 
-Este material, portanto, pode ser de extrema ajuda para qualquer estudante ou profissional que atua nas áreas de geoprocessamento e análise de dados.
+Portanto, este material serve de apoio a estudantes e profissionais que atuam nas áreas de geoprocessamento e análise de dados.
 
 ## Filosofia do repositório
 
