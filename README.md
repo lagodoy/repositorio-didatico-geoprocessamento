@@ -15,21 +15,20 @@ Os procedimentos aqui apresentados seguem alguns princípios básicos.
 
 + Explicar conceitos antes de apresentar ferramentas.
 + Justificar as decisões metodológicas adotadas.
-+ Priorizar a reprodutibilidade dos resultados.
-+ Utilizar exemplos simples e facilmente reproduzíveis.
 + Disponibilizar o código utilizado nas análises.
-+ Fundamentar decisões importantes na literatura científica.
-+ Priorizar clareza em vez de quantidade de conteúdo.
++ Priorizar a reprodutibilidade e adaptabilidade dos resultados priorizando exemplos simples a partir de questões cotidianas.
++ Quando necessário, indicar referêcnias na literatura para complementar o procedimento.
++ Focar na clareza em vez de quantidade de conteúdo.
 
 ## Estrutura dos procedimentos
 
-Todos os procedimentos seguem a mesma organização.
+Normalmente os procedimentos seguem uma organização similar à demonstrada a seguir: 
 
 ```{r}
 Procedimento
 │
 ├── Objetivo
-├── Fundamentação
+├── Breve fundamentação
 ├── Dados de entrada
 ├── Procedimento comentado
 │     ├── Etapa 1
@@ -42,11 +41,14 @@ Procedimento
 └── Referências
 ```
 
+Algumas exceções são os casos de roteiros apresentados externamente, como no Google Colab.
+
 ## Procedimentos disponíveis
 
 | Procedimento                                                                    | Situação              |
 | ------------------------------------------------------------------------------- | --------------------- |
 | Redistribuição da população para malhas hexagonais utilizando áreas urbanizadas | 🚧 Em desenvolvimento |
+| [Análise de Redes e Roteamento Espacial com pgRouting](./02_pgrouting_melhor_rota_pedestres/README.md) | Disponível |
 
 ## Licença
 
