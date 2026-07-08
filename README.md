@@ -48,7 +48,7 @@ Algumas exceções são os casos de roteiros apresentados externamente, como no 
 | Procedimento                                                                    | Situação              |
 | ------------------------------------------------------------------------------- | --------------------- |
 | Redistribuição da população para malhas hexagonais utilizando áreas urbanizadas | 🚧 Em desenvolvimento |
-| [Análise de Redes e Roteamento Espacial com pgRouting](./02_pgrouting_melhor_rota_pedestres/README.md) | Disponível |
+| [Análise de redes e roteamento: Melhor rota para pedestres com pgRouting](./02_pgrouting_melhor_rota_pedestres/README.md) | Disponível |
 
 ## Licença
 
